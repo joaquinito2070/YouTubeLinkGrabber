@@ -23,6 +23,17 @@ python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=KW3v1Dubc08 > ./Se
 python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=6qtUZDWaOjo > ./TRTNostalji.m3u8
 python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=ftfJHeVJbek > ./ibo.m3u8
 python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=DbQ4HGgr7Xo > ./ntv.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=CLDRA647Hh8 > ./disneychanneles-1.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=MWDOVTsli6I > ./disneychanneles-2.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=041xSefu45E > ./disneychanneles-3.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=ERRPU0fxvF0 > ./disneychanneles-4.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=_BSYzI4QYE0 > ./loteriadesantafe.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=6LlZXt8nk4s > ./televisioncanaria.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=YNqj5t4rlAA > ./televisiondegalicia.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=J9DivrJSF9k > ./canalsurandalucia.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=7_srED6k0bE > ./24horas.m3u8
+python3 YouTubeLinkGrabber.py https://www.youtube.com/watch?v=vOTiJkg1voo > ./abcnewsaustralia.m3u8
+
 
 python3 ../MügeAnliGrabber.py
 
